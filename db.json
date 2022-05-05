@@ -1,8 +1,12 @@
 {
-  "posts": [
+  "Members": [
+    {
+      "id": 0,
+      "name": "Vasyl"
+    }
     {
       "id": 1,
-      "title": "hello"
+      "name": "Dima"
     }
   ],
   "profile": {
